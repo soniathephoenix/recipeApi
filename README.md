@@ -179,10 +179,4 @@ function displayRecipe(meal) {
 
 John used this function to populate the recipe template with the meal’s title, image, instructions, and ingredients. The recipe would smoothly scroll into view when clicked.
 
----
 
-## Conclusion
-
-By connecting all these pieces together, John successfully built a simple, functional app where users could search for meals by ingredient, view meal options, and click on any meal to view its detailed recipe. It was a clean and user-friendly experience from start to finish!
-
----
