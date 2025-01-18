@@ -1,5 +1,7 @@
 # John’s Recipe Search App
 
+Ps.: John is a fictious character used to explain the journey building this app.
+
 ## Overview
 This app was created to practice **DOM manipulation** and working with **APIs**. It allows users to search for recipes based on ingredients. The app fetches meal data from TheMealDB API and dynamically displays recipe information on the page.
 
