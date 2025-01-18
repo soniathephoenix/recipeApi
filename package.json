@@ -9,8 +9,6 @@
   "scripts": {
     "test": "node ./index.js",
     "c": "clear"
-  },
-  "dependencies": {
-    "prompt-sync": "^4.2.0"
   }
+  
 }
